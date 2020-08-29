@@ -1,0 +1,1 @@
+# 在windows10上通过vs2019使用c++ 11操作openssl_v1.1.1g_x64
