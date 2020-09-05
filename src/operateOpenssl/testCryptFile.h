@@ -1,0 +1,1 @@
+void testCryptFile(int argc, char* argv[]);

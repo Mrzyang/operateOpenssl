@@ -143,7 +143,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="first_openssl.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="testCryptFile.cpp" />
+    <ClCompile Include="testDEScpp.cpp" />
+    <ClCompile Include="testRand.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="testCryptFile.h" />
+    <ClInclude Include="testDES.h" />
+    <ClInclude Include="testRand.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
